@@ -1,0 +1,24 @@
+#h1- {
+    color: red;
+    text-align: center;
+}
+
+#h2- {
+    color: blue;
+    text-align: center;
+}
+
+#div-links {
+    text-align: center;
+    margin: 200px auto;
+    width: 10%;
+    border-color: plum;
+    border-width: 5px;
+    border-style:groove;
+}
+
+#parrafo {
+    text-align: center;
+    color: orangered;
+    font-size: 150%;
+}
