@@ -12,6 +12,26 @@
     width: 400px;
     border-style: solid;
     border-radius: 10px;
+    border-width: 2px;
+}
+
+#foto-fondo-1 {
+    background-image: url("https://i.pinimg.com/564x/10/86/a4/1086a4ccc2767a5248c01c289ffa6373.jpg");
+    border-radius: 10px;
+    height: 500px;
     position: relative;
 }
 
+#foto-arriba {
+    position: absolute;
+    height: 301px;
+    width: 401px;
+}
+
+#imagen-arriba {
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
