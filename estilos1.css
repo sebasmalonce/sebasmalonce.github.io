@@ -1,12 +1,15 @@
 #container {
     height: 640px;
     width: 100%;
-    background-color: aqua;
+    background-color: none;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-#tarjeta-contaienr {
-    
+#tarjeta-container {
+    height: 500px;
+    width: 400px;
+    border-style: solid;
+    position: relative;
 }
