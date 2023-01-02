@@ -11,5 +11,7 @@
     height: 500px;
     width: 400px;
     border-style: solid;
+    border-radius: 10px;
     position: relative;
 }
+
