@@ -12,7 +12,7 @@
     width: 400px;
     border-style: solid;
     border-radius: 10px;
-    border-width: 2px;
+    border-width: 0px;
 }
 
 #foto-fondo-1 {
@@ -22,16 +22,3 @@
     position: relative;
 }
 
-#foto-arriba {
-    position: absolute;
-    height: 301px;
-    width: 401px;
-}
-
-#imagen-arriba {
-    position: absolute;
-    height: 300px;
-    width: 400px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-}
