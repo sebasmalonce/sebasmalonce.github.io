@@ -85,4 +85,19 @@
     box-shadow: 0 8px 32px 0 rgba(244, 84, 255, 0.748);
     backdrop-filter: blur( 2px );
     -webkit-backdrop-filter: blur( 2px );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#datos {
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: center;
+}
+
+#bandera {
+    width: 80px;
+    height: 80px;
 }
